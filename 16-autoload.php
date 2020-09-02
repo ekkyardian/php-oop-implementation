@@ -17,8 +17,9 @@
  * 3. Memungkinkan kita untuk dapat membuat struktur file menjadi lebih rapih.
  * 
  * PERHAIAN!
- * Pada materi kali ini melibatkan beberapa file lain, diantaranya:
- * 1. 
+ * Pada materi kali ini melibatkan file lain, diantaranya:
+ * 1. class/Book.php
+ * 2. class/Product.php
  */
 
 function myAutoLoad($class) {
