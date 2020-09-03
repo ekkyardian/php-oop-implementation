@@ -12,6 +12,9 @@
  * 
  * Type hint tidak hanya bekerja pada class saja, kita juga bisa menggunakannya
  * diluar class.
+ * 
+ * Tipe yang didukung:
+ * class/interface, self, callable, array, bool, float, int, dan string.
  */
 
 class Makanan
