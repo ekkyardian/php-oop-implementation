@@ -3,11 +3,14 @@
 /*
  * Interface
  * Adalah sebuah objek abstrak yang tidak berisi data atau proses tapi mendefi-
- * nisikan kebiasaan atau fungsi sebagai method signatures.
+ * nisikan kebiasaan atau fungsi sebagai method signatures. Penggunaan
+ * interface ini mirip dengan pewarisan/extend pada class biasa.
  * 
  * Manfaat dan karakteristik:
  * 1. Membantu programmer lain untuk membedah kode yang kita buat
  * 2. Interface dibuat bukan untuk kita pribadi
+ * 3. Untuk memanggil interface pada class, gunakan perintah implements pada
+ *    saat mendeklarasikan class yang akan menggunakannya (lihat contoh).
  * 
  * Keterbatasan:
  * 1. Tidak ada implementasi di dalamnya
