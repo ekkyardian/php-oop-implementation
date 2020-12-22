@@ -2,7 +2,7 @@
 //
 class Student
 {
-    # code here...
+    # code here..
 }
 
 // Mengecek semua class yang tersedia/sudah dideklarasikan
